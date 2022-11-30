@@ -1,0 +1,19 @@
+.popup__handlers {
+  /* position: absolute; */
+  width: 358px;
+  height: 50px;
+  /* left: 461px; */
+  /* top: 438px; */
+
+  background: #000000;
+  border-radius: 2px;
+}
+
+/* Зона кнопок и сами кнопки */
+
+/* .popup__handlers {
+  margin: 0;
+  width: 320px;
+  height: 40px;
+  border: 0;
+} */

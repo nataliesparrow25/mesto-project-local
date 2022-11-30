@@ -1,0 +1,12 @@
+.popup__input-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}
+
+/* .popup__input-container {
+  width: 240px;
+  margin: auto;
+  padding-bottom: 50px;
+  border: 0;
+} */
