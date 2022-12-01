@@ -1,10 +1,10 @@
 .button {
-display: block;
+  display: block;
   cursor: pointer;
-  background-color: black; 
+  background-color: black;
   text-align: center;
 }
 
 .button:hover {
-  opacity: 0.8;
+  opacity: 0.6;
 }

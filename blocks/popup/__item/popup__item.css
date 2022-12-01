@@ -1,5 +1,4 @@
 .popup__item {
-  width: 358px;
   height: 14px;
   font-style: normal;
   font-weight: 400;
@@ -10,4 +9,14 @@
   box-sizing: border-box;
   height: 27px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding-bottom: 13px;
+}
+
+@media screen and (max-width: 879px) {
+  .popup__item {
+    width: 238px;
+    font-size: 14px;
+    line-height: 17px;
+    align-self: center;
+  }
 }
